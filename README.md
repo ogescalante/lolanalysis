@@ -1,1 +1,1 @@
-Um jogo de estratégia baseado no cenário competitivo de League of Legends, utilizando pygame.
+Análise estatística de partidas profissionais de LoL à fim de treinar as minhas habilidades de Data Science.
